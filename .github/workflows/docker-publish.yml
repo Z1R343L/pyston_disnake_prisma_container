@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: jan2705g/pyston_disnake:latest
+          tags: jan2705g/pyston_disnake_prisma:latest
